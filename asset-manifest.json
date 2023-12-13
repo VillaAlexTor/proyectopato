@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/proyectopato/static/css/main.f47c1a82.css",
+    "main.js": "/proyectopato/static/js/main.76071e19.js",
+    "static/media/vidsuper.mp4": "/proyectopato/static/media/vidsuper.5982615c3f5ab34053f4.mp4",
+    "static/media/imgsupermercado.jpg": "/proyectopato/static/media/imgsupermercado.23f11fb28d81d800389b.jpg",
+    "static/media/patoimagen.jpg": "/proyectopato/static/media/patoimagen.303bf656d8f99a1101cf.jpg",
+    "static/media/imgfideoconhuevo.jpg": "/proyectopato/static/media/imgfideoconhuevo.d4c6543f8a6198911848.jpg",
+    "static/media/imgshampoo.webp": "/proyectopato/static/media/imgshampoo.f9da3c21739cea5ee31e.webp",
+    "static/media/imgutencillos.jpg": "/proyectopato/static/media/imgutencillos.4fcb2d9754ef2c54f48b.jpg",
+    "static/media/imgquinua.jpg": "/proyectopato/static/media/imgquinua.640acf1cfe22fbe06e41.jpg",
+    "static/media/imgpromoauto.jpg": "/proyectopato/static/media/imgpromoauto.4624b79c8f20f2915fce.jpg",
+    "static/media/imgleche2x1.webp": "/proyectopato/static/media/imgleche2x1.2fc608066b0053810613.webp",
+    "static/media/imgwhiskas.webp": "/proyectopato/static/media/imgwhiskas.6ddb1b1db288a1e269d4.webp",
+    "index.html": "/proyectopato/index.html",
+    "main.f47c1a82.css.map": "/proyectopato/static/css/main.f47c1a82.css.map",
+    "main.76071e19.js.map": "/proyectopato/static/js/main.76071e19.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f47c1a82.css",
+    "static/js/main.76071e19.js"
+  ]
+}
